@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # CODE REVIEW
-After much time and review, a complete code review has been completed for the Three Final Projects. This Narrated video can be found in my google drive link located at https://drive.google.com/open?id=1ZrVcnJtACOmh6f-T5a5eLLwcoWyegtG9
+After much time and review, a complete code review has been completed for the Three Final Projects. 
+This Narrated video can be found in my google drive link located at 
+https://drive.google.com/open?id=1ZrVcnJtACOmh6f-T5a5eLLwcoWyegtG9
 ## Header 2
 ### Header 3
 
