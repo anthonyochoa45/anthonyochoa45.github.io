@@ -1,42 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/anthonyochoa45/anthonyochoa45.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # CODE REVIEW
 After much time and review, a complete code review has been completed for the Three Final Projects. 
 This Narrated video can be found in my google drive link located at 
 https://drive.google.com/open?id=1ZrVcnJtACOmh6f-T5a5eLLwcoWyegtG9
-#Enhancement One
+## Enchancement One
 This is the Final Project for IT-380 Cybersecurity and Info Assurance enhancement one. It consists of a Training Manual for a new Security Analyst and A custom built interactive quiz to test the reader knowledge. It is located in the Cybersecurity Quiz zip file.
 ## Enhancement Two 
 The second enhancement involves Algorithms and Data Structures. This was displayed with the enhancement of a recent project by making it more user friendly with an interface. This code can be found in the ZooProject 2 zip file.
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anthonyochoa45/anthonyochoa45.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Enhancement Three
